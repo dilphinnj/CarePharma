@@ -1,0 +1,18 @@
+SMAP
+viewSupplierRecords_jsp.java
+JSP
+*S JSP
+*F
++ 0 viewSupplierRecords.jsp
+viewSupplierRecords.jsp
+*L
+5,13:45
+17,3:58
+19,13:61
+32,3:75
+34,3:78
+37,5:81,3
+42,2:96
+44,2:99
+45,18:101
+*E

@@ -1,0 +1,18 @@
+SMAP
+viewFrequentCustomers_jsp.java
+JSP
+*S JSP
+*F
++ 0 viewFrequentCustomers.jsp
+viewFrequentCustomers.jsp
+*L
+1,20:49
+22,66:70
+87,17:136
+104,3:154
+106,3:157
+109,3:160,3
+112,2:169
+114,2:172
+115,20:174
+*E

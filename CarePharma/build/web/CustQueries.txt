@@ -1,0 +1,48 @@
+Customer Query
+***************
+
+Name :John
+Age :35
+Email :aaaaaaa
+Tel :
+Query :hello..checking form
+Customer Query
+***************
+
+Name :
+Age :
+Email :
+Tel :
+Query :
+Customer Query
+***************
+
+Name :Mark Zuckerberg
+Age :30
+Email :mark@fb.com
+Tel :12452435456
+Query :I am mark!
+Customer Query
+***************
+
+Name :Mark Zuckerberg
+Age :30
+Email :mark@fb.com
+Tel :12452435456
+Query :I am mark!
+Customer Query
+***************
+
+Name :Mark Zuckerberg
+Age :30
+Email :mark@fb.com
+Tel :12452435456
+Query :I am mark!
+Customer Query
+***************
+
+Name :Mark Zuckerberg
+Age :30
+Email :mark@fb.com
+Tel :12452435456
+Query :I am mark!

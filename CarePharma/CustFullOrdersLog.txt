@@ -1,0 +1,906 @@
+		CUSTOMER ORDER LOG
+		====================
+		====================
+
+
+ 
+**************** 
+ Order No :01
+=====================
+|| Order Date: 2014-03-22| Drug ID :2| Purchased Qty :20 
+ 
+ 
+ 
+**************** 
+ Order No :2
+=====================
+|| Order Date: 2014-03-22| Drug ID :2| Purchased Qty :20 
+ 
+**************** 
+ Order No :3
+=====================
+|| Order Date: null| Drug ID :2| Purchased Qty :20 
+ 
+**************** 
+ Order No :4
+=====================
+|| Order Date: 2014-03-22| Drug ID :1| Purchased Qty :15 
+ 
+**************** 
+ Order No :5
+=====================
+|| Order Date: 2014-03-22
+|| Drug ID :1| Purchased Qty :15
+|| Drug ID :5| Purchased Qty :23
+|| Drug ID :3| Purchased Qty :34
+ 
+**************** 
+ Order No :6
+=====================
+|| Order Date: 2014-03-22
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :15
+|| Drug ID :5| Purchased Qty :45
+|| Drug ID :2| Purchased Qty :34
+ 
+
+ 
+ 
+**************** 
+ Order No :7
+=====================
+|| Order Date: 2014-03-22
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :15
+|| Drug ID :5| Purchased Qty :45
+|| Drug ID :2| Purchased Qty :34
+ 
+ 
+**************** 
+ Order No :8
+=====================
+|| Order Date: 2014-03-22
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :15
+|| Drug ID :5| Purchased Qty :45
+|| Drug ID :2| Purchased Qty :34
+ 
+ 
+**************** 
+ Order No :9
+=====================
+|| Order Date: 2014-03-22
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :15
+|| Drug ID :5| Purchased Qty :45
+|| Drug ID :2| Purchased Qty :34
+ 
+ 
+**************** 
+ Order No :10
+=====================
+|| Order Date: 2014-03-22
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :15
+|| Drug ID :5| Purchased Qty :45
+|| Drug ID :2| Purchased Qty :34
+ 
+ 
+**************** 
+ Order No :11
+=====================
+|| Order Date: 2014-03-22
+|| Customer ID: 3
+|| Drug ID :1| Purchased Qty :10
+|| Drug ID :2| Purchased Qty :20
+|| Drug ID :3| Purchased Qty :30
+|| Drug ID :4| Purchased Qty :40
+|| Drug ID :5| Purchased Qty :50
+ 
+ 
+**************** 
+ Order No :12
+=====================
+|| Order Date: 2014-03-22
+|| Customer ID: 4
+|| Drug ID :1| Purchased Qty :32
+|| Drug ID :1| Purchased Qty :34
+|| Drug ID :1| Purchased Qty :54
+|| Drug ID :1| Purchased Qty :21
+|| Drug ID :1| Purchased Qty :32
+|| Drug ID :1| Purchased Qty :43
+|| Drug ID :1| Purchased Qty :12
+ 
+ 
+**************** 
+ Order No :13
+=====================
+|| Order Date: 2014-03-22
+|| Customer ID: 4
+|| Drug ID :1| Purchased Qty :32
+|| Drug ID :1| Purchased Qty :34
+|| Drug ID :1| Purchased Qty :54
+|| Drug ID :1| Purchased Qty :21
+|| Drug ID :1| Purchased Qty :32
+|| Drug ID :1| Purchased Qty :43
+|| Drug ID :1| Purchased Qty :12
+ 
+ 
+**************** 
+ Order No :14
+=====================
+|| Order Date: 2014-03-22
+|| Customer ID: 4
+|| Drug ID :1| Purchased Qty :32
+|| Drug ID :1| Purchased Qty :34
+|| Drug ID :1| Purchased Qty :54
+|| Drug ID :1| Purchased Qty :21
+|| Drug ID :1| Purchased Qty :32
+|| Drug ID :1| Purchased Qty :43
+ 
+ 
+**************** 
+ Order No :15
+=====================
+|| Order Date: 2014-03-22
+|| Customer ID: 3
+|| Drug ID :1| Purchased Qty :12
+|| Drug ID :2| Purchased Qty :23
+|| Drug ID :3| Purchased Qty :34
+|| Drug ID :4| Purchased Qty :41
+|| Drug ID :5| Purchased Qty :52
+|| Drug ID :1| Purchased Qty :67
+|| Drug ID :2| Purchased Qty :73
+|| Drug ID :3| Purchased Qty :82
+ 
+ 
+**************** 
+ Order No :16
+=====================
+|| Order Date: 2014-03-22
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :12
+|| Drug ID :2| Purchased Qty :23
+ 
+ 
+**************** 
+ Order No :17
+=====================
+|| Order Date: null
+|| Customer ID: 0
+ 
+ 
+**************** 
+ Order No :18
+=====================
+|| Order Date: 2014-03-23
+|| Customer ID: 2
+|| Drug ID :5| Purchased Qty :34
+|| Drug ID :3| Purchased Qty :23
+ 
+ 
+**************** 
+ Order No :19
+=====================
+|| Order Date: 2014-03-23
+|| Customer ID: 2
+|| Drug ID :5| Purchased Qty :34
+|| Drug ID :3| Purchased Qty :23
+ 
+ 
+**************** 
+ Order No :20
+=====================
+|| Order Date: 2014-03-23
+|| Customer ID: 4
+|| Drug ID :3| Purchased Qty :23
+|| Drug ID :5| Purchased Qty :16
+|| Drug ID :2| Purchased Qty :24
+ 
+ 
+**************** 
+ Order No :21
+=====================
+|| Order Date: 2014-03-23
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :30
+|| Drug ID :3| Purchased Qty :30
+ 
+ 
+**************** 
+ Order No :22
+=====================
+|| Order Date: 2014-03-23
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :30
+|| Drug ID :3| Purchased Qty :30
+ 
+ 
+**************** 
+ Order No :23
+=====================
+|| Order Date: 2014-03-23
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :30
+|| Drug ID :3| Purchased Qty :30
+ 
+ 
+**************** 
+ Order No :24
+=====================
+|| Order Date: 2014-03-23
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :30
+|| Drug ID :3| Purchased Qty :30
+ 
+ 
+**************** 
+ Order No :25
+=====================
+|| Order Date: 2014-03-23
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :30
+|| Drug ID :3| Purchased Qty :30
+ 
+ 
+**************** 
+ Order No :26
+=====================
+|| Order Date: 2014-03-23
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :30
+|| Drug ID :3| Purchased Qty :30
+ 
+ 
+**************** 
+ Order No :27
+=====================
+|| Order Date: 2014-03-23
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :30
+|| Drug ID :3| Purchased Qty :30
+ 
+ 
+**************** 
+ Order No :28
+=====================
+|| Order Date: 2014-03-23
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :30
+|| Drug ID :3| Purchased Qty :30
+ 
+ 
+**************** 
+ Order No :29
+=====================
+|| Order Date: 2014-03-23
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :30
+|| Drug ID :3| Purchased Qty :30
+ 
+ 
+**************** 
+ Order No :30
+=====================
+|| Order Date: 2014-03-23
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :30
+|| Drug ID :3| Purchased Qty :30
+ 
+ 
+**************** 
+ Order No :31
+=====================
+|| Order Date: 2014-03-23
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :30
+|| Drug ID :3| Purchased Qty :30
+ 
+ 
+**************** 
+ Order No :32
+=====================
+|| Order Date: 2014-03-23
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :30
+|| Drug ID :3| Purchased Qty :30
+ 
+ 
+**************** 
+ Order No :33
+=====================
+|| Order Date: 2014-03-23
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :30
+|| Drug ID :3| Purchased Qty :30
+ 
+ 
+**************** 
+ Order No :34
+=====================
+|| Order Date: 2014-03-24
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :30
+|| Drug ID :3| Purchased Qty :30
+ 
+ 
+**************** 
+ Order No :35
+=====================
+|| Order Date: 2014-03-24
+|| Customer ID: 2
+|| Drug ID :4| Purchased Qty :10
+|| Drug ID :1| Purchased Qty :70
+ 
+ 
+**************** 
+ Order No :36
+=====================
+|| Order Date: 2014-03-24
+|| Customer ID: 2
+|| Drug ID :4| Purchased Qty :10
+|| Drug ID :1| Purchased Qty :70
+ 
+ 
+**************** 
+ Order No :37
+=====================
+|| Order Date: 2014-03-24
+|| Customer ID: 4
+|| Drug ID :1| Purchased Qty :12
+|| Drug ID :4| Purchased Qty :9
+|| Drug ID :3| Purchased Qty :7
+ 
+ 
+**************** 
+ Order No :38
+=====================
+|| Order Date: 2014-03-27
+|| Customer ID: 3
+|| Drug ID :2| Purchased Qty :10
+|| Drug ID :4| Purchased Qty :25
+|| Drug ID :5| Purchased Qty :21
+ 
+ 
+**************** 
+ Order No :39
+=====================
+|| Order Date: 2014-03-27
+|| Customer ID: 3
+|| Drug ID :16| Purchased Qty :5
+|| Drug ID :1| Purchased Qty :12
+ 
+ 
+**************** 
+ Order No :40
+=====================
+|| Order Date: 2014-03-27
+|| Customer ID: 1
+|| Drug ID :1| Purchased Qty :21
+|| Drug ID :3| Purchased Qty :3
+ 
+ 
+**************** 
+ Order No :41
+=====================
+|| Order Date: 2014-03-28
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :15
+|| Drug ID :3| Purchased Qty :16
+ 
+ 
+**************** 
+ Order No :42
+=====================
+|| Order Date: 2014-03-28
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :15
+|| Drug ID :3| Purchased Qty :16
+ 
+ 
+**************** 
+ Order No :43
+=====================
+|| Order Date: 2014-03-28
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :15
+|| Drug ID :3| Purchased Qty :16
+ 
+ 
+**************** 
+ Order No :44
+=====================
+|| Order Date: 2014-03-28
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :15
+|| Drug ID :3| Purchased Qty :16
+ 
+ 
+**************** 
+ Order No :45
+=====================
+|| Order Date: 2014-03-28
+|| Customer ID: 4
+|| Drug ID :6| Purchased Qty :31
+|| Drug ID :2| Purchased Qty :23
+ 
+ 
+**************** 
+ Order No :46
+=====================
+|| Order Date: 2014-03-28
+|| Customer ID: 4
+|| Drug ID :6| Purchased Qty :31
+|| Drug ID :2| Purchased Qty :23
+ 
+ 
+**************** 
+ Order No :47
+=====================
+|| Order Date: 2014-03-28
+|| Customer ID: 4
+|| Drug ID :6| Purchased Qty :31
+|| Drug ID :2| Purchased Qty :23
+ 
+ 
+**************** 
+ Order No :48
+=====================
+|| Order Date: 2014-03-28
+|| Customer ID: 4
+|| Drug ID :6| Purchased Qty :31
+|| Drug ID :2| Purchased Qty :23
+ 
+ 
+**************** 
+ Order No :49
+=====================
+|| Order Date: 2014-03-28
+|| Customer ID: 4
+|| Drug ID :6| Purchased Qty :31
+|| Drug ID :2| Purchased Qty :23
+ 
+ 
+**************** 
+ Order No :50
+=====================
+|| Order Date: 2014-03-28
+|| Customer ID: 4
+|| Drug ID :6| Purchased Qty :31
+|| Drug ID :2| Purchased Qty :23
+ 
+ 
+**************** 
+ Order No :51
+=====================
+|| Order Date: 2014-03-28
+|| Customer ID: 4
+|| Drug ID :6| Purchased Qty :31
+|| Drug ID :2| Purchased Qty :23
+ 
+ 
+**************** 
+ Order No :52
+=====================
+|| Order Date: null
+|| Customer ID: 0
+ 
+ 
+**************** 
+ Order No :53
+=====================
+|| Order Date: 2014-03-28
+|| Customer ID: 4
+|| Drug ID :1| Purchased Qty :1
+|| Drug ID :2| Purchased Qty :1
+ 
+ 
+**************** 
+ Order No :54
+=====================
+|| Order Date: 2014-03-28
+|| Customer ID: 4
+|| Drug ID :1| Purchased Qty :1
+|| Drug ID :2| Purchased Qty :1
+ 
+ 
+**************** 
+ Order No :55
+=====================
+|| Order Date: 2014-03-28
+|| Customer ID: 4
+|| Drug ID :1| Purchased Qty :1
+|| Drug ID :2| Purchased Qty :1
+ 
+ 
+**************** 
+ Order No :56
+=====================
+|| Order Date: 2014-03-28
+|| Customer ID: 4
+|| Drug ID :1| Purchased Qty :1
+|| Drug ID :2| Purchased Qty :1
+ 
+ 
+**************** 
+ Order No :57
+=====================
+|| Order Date: 2014-03-28
+|| Customer ID: 4
+|| Drug ID :1| Purchased Qty :1
+|| Drug ID :2| Purchased Qty :1
+ 
+ 
+**************** 
+ Order No :58
+=====================
+|| Order Date: 2014-03-28
+|| Customer ID: 4
+|| Drug ID :1| Purchased Qty :1
+|| Drug ID :2| Purchased Qty :1
+ 
+ 
+**************** 
+ Order No :59
+=====================
+|| Order Date: 2014-03-28
+|| Customer ID: 4
+|| Drug ID :1| Purchased Qty :1
+|| Drug ID :2| Purchased Qty :1
+ 
+ 
+**************** 
+ Order No :60
+=====================
+|| Order Date: 2014-03-28
+|| Customer ID: 4
+|| Drug ID :1| Purchased Qty :1
+|| Drug ID :2| Purchased Qty :1
+ 
+ 
+**************** 
+ Order No :61
+=====================
+|| Order Date: 2014-03-28
+|| Customer ID: 4
+|| Drug ID :1| Purchased Qty :1
+|| Drug ID :2| Purchased Qty :1
+ 
+ 
+**************** 
+ Order No :62
+=====================
+|| Order Date: 2014-03-28
+|| Customer ID: 4
+|| Drug ID :1| Purchased Qty :1
+|| Drug ID :2| Purchased Qty :1
+ 
+ 
+**************** 
+ Order No :63
+=====================
+|| Order Date: 2014-03-28
+|| Customer ID: 2
+|| Drug ID :3| Purchased Qty :1
+|| Drug ID :1| Purchased Qty :1
+ 
+ 
+**************** 
+ Order No :64
+=====================
+|| Order Date: 2014-03-28
+|| Customer ID: 2
+|| Drug ID :3| Purchased Qty :1
+|| Drug ID :1| Purchased Qty :1
+ 
+ 
+**************** 
+ Order No :65
+=====================
+|| Order Date: 2014-04-2
+|| Customer ID: 4
+|| Drug ID :1| Purchased Qty :5
+|| Drug ID :4| Purchased Qty :12
+ 
+ 
+**************** 
+ Order No :66
+=====================
+|| Order Date: 2014-04-16
+|| Customer ID: 1
+|| Drug ID :1| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :67
+=====================
+|| Order Date: 2014-04-16
+|| Customer ID: 3
+|| Drug ID :2| Purchased Qty :21
+|| Drug ID :4| Purchased Qty :12
+ 
+ 
+**************** 
+ Order No :68
+=====================
+|| Order Date: 2014-04-21
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :30
+|| Drug ID :3| Purchased Qty :20
+|| Drug ID :2| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :69
+=====================
+|| Order Date: 2014-04-21
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :70
+=====================
+|| Order Date: 2014-04-21
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :71
+=====================
+|| Order Date: null
+|| Customer ID: 0
+ 
+ 
+**************** 
+ Order No :72
+=====================
+|| Order Date: 2014-04-21
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :73
+=====================
+|| Order Date: 2014-04-21
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :74
+=====================
+|| Order Date: 2014-04-21
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :75
+=====================
+|| Order Date: 2014-04-21
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :76
+=====================
+|| Order Date: 2014-04-21
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :77
+=====================
+|| Order Date: 2014-04-21
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :78
+=====================
+|| Order Date: 2014-04-21
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :79
+=====================
+|| Order Date: 2014-04-21
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :80
+=====================
+|| Order Date: 2014-04-21
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :81
+=====================
+|| Order Date: 2014-04-21
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :82
+=====================
+|| Order Date: 2014-04-21
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :83
+=====================
+|| Order Date: 2014-04-21
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :84
+=====================
+|| Order Date: 2014-04-21
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :85
+=====================
+|| Order Date: 2014-04-21
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :86
+=====================
+|| Order Date: 2014-04-21
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :87
+=====================
+|| Order Date: null
+|| Customer ID: 0
+ 
+ 
+**************** 
+ Order No :88
+=====================
+|| Order Date: 2014-04-21
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :89
+=====================
+|| Order Date: 2014-04-21
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :90
+=====================
+|| Order Date: 2014-04-21
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :91
+=====================
+|| Order Date: 2014-04-21
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :92
+=====================
+|| Order Date: 2014-04-21
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :93
+=====================
+|| Order Date: 2014-04-21
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :94
+=====================
+|| Order Date: 2014-04-21
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :95
+=====================
+|| Order Date: 2014-04-21
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :96
+=====================
+|| Order Date: 2014-04-21
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :97
+=====================
+|| Order Date: 2014-04-21
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :98
+=====================
+|| Order Date: 2014-04-21
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :30
+|| Drug ID :3| Purchased Qty :20
+|| Drug ID :2| Purchased Qty :50
+|| Drug ID :5| Purchased Qty :40
+|| Drug ID :4| Purchased Qty :10
+ 
+ 
+**************** 
+ Order No :99
+=====================
+|| Order Date: 2014-04-22
+|| Customer ID: 2
+|| Drug ID :3| Purchased Qty :12
+ 
+ 
+**************** 
+ Order No :100
+=====================
+|| Order Date: 2014-04-22
+|| Customer ID: 2
+|| Drug ID :3| Purchased Qty :21
+ 
+ 
+**************** 
+ Order No :101
+=====================
+|| Order Date: 2014-04-22
+|| Customer ID: 2
+|| Drug ID :3| Purchased Qty :21
+ 
+ 
+**************** 
+ Order No :102
+=====================
+|| Order Date: 2014-04-28
+|| Customer ID: 2
+|| Drug ID :1| Purchased Qty :
+|| Drug ID :1| Purchased Qty :
+|| Drug ID :1| Purchased Qty :2
